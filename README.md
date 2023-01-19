@@ -1,2 +1,2 @@
-# My-Git-Practise
-All the practice code included JAVA, HTML, PYTHON.
+# My-Practise
+All the practice code included JAVA, HTML, PYTHON etc
